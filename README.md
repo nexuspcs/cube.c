@@ -1,10 +1,6 @@
 # cube.c
 A spinning cube animation written in C
 
-
-# cube.c
-A spinning cube animation written in C
-
  
 If you are interested in learning more, feel free to contact me using my [personal email](mailto:james@coatesy.au) or by using one of my [business accounts](mailto:james@windcloud.com.au)
 *** 
